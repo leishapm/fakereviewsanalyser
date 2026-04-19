@@ -90,6 +90,7 @@ https://drive.google.com/drive/folders/1GCCONZDA_wSQUIP19BzCYLWu-ynJzxbE?usp=dri
 
 ---
 ### Expected Structure  
+```
 SC3021Notebook/
 └── SC3021Notebook/
 ├── nltk_data/
@@ -97,6 +98,7 @@ SC3021Notebook/
 ├── deceptive-opinion.csv
 ├── tripadvisor_hotel_reviews.csv
 ├── google_play_store_reviews.csv
+```
 
 ### Note  
 Ensure you are using the **inner folder** containing the dataset files. Incorrect paths will cause the code to fail.
