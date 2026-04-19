@@ -75,11 +75,11 @@ This forces the model to rely on **generalisable deception signals** rather than
   Hotel domain, unlabelled, used for cross-domain evaluation  
 
 ---
-## 📂 Dataset Access  
+##  Dataset Access  
 
 The datasets used in this project are hosted externally due to size constraints.
 
-🔗 Google Drive Link:  
+Google Drive Link:  
 https://drive.google.com/drive/folders/1GCCONZDA_wSQUIP19BzCYLWu-ynJzxbE?usp=drive_link
 
 ### Instructions  
