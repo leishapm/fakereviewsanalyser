@@ -75,7 +75,33 @@ This forces the model to rely on **generalisable deception signals** rather than
   Hotel domain, unlabelled, used for cross-domain evaluation  
 
 ---
+## 📂 Dataset Access  
 
+The datasets used in this project are hosted externally due to size constraints.
+
+🔗 Google Drive Link:  
+https://drive.google.com/drive/folders/1GCCONZDA_wSQUIP19BzCYLWu-ynJzxbE?usp=drive_link
+
+### Instructions  
+1. Open the link  
+2. Make a copy to your own Google Drive  
+3. Ensure the folder structure and file names remain unchanged  
+4. Update dataset paths in the notebook if required
+
+---
+### Expected Structure  
+SC3021Notebook/
+└── SC3021Notebook/
+├── nltk_data/
+├── fake_reviews_dataset.csv
+├── deceptive-opinion.csv
+├── tripadvisor_hotel_reviews.csv
+├── google_play_store_reviews.csv
+
+### Note  
+Ensure you are using the **inner folder** containing the dataset files. Incorrect paths will cause the code to fail.
+
+---
 ##  Model Approach  
 
 This project uses a **hybrid model** combining deep learning with engineered features:
